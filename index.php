@@ -5,3 +5,4 @@
 	<p><strong> PHONE : 082191986732 </strong></p>
 	<p><strong> EMAIL : Fachrulandi47@gmail.com </strong></p>
 	<p><strong> South Sulawesi </strong></p> 
+</table>
